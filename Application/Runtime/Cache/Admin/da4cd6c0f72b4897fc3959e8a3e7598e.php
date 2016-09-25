@@ -276,7 +276,7 @@
                             <!-- /input-group -->
                         </li>
                         <li>
-                            <a href="<?php echo U("Index/index");?>"><i class="fa fa-dashboard fa-fw"></i> 控制面板</a>
+                            <a href="admin.php/index"><i class="fa fa-dashboard fa-fw"></i> 控制面板</a>
                         </li>
                         <li>
                             <a href="#"><i class="fa fa-bar-chart-o fa-fw"></i> Charts<span class="fa arrow"></span></a>
@@ -291,10 +291,10 @@
                             <!-- /.nav-second-level -->
                         </li>
                         <li>
-                            <a href="<?php echo U('User/index');?>"><i class="fa fa-files-o fa-fw"></i> 用户管理</a>
+                            <a href="admin.php/user"><i class="fa fa-files-o fa-fw"></i> 用户管理</a>
                         </li>
                         <li>
-                            <a href="<?php echo U('Invest/index');?>"><i class="fa fa-files-o fa-fw"></i> 项目管理</a>
+                            <a href="admin.php/invest"><i class="fa fa-files-o fa-fw"></i> 项目管理</a>
                         </li>
                         <li>
                             <a href="#"><i class="fa fa-wrench fa-fw"></i> UI Elements<span class="fa arrow"></span></a>
@@ -345,7 +345,7 @@
         <div id="page-wrapper">
             <div class="row">
                 <div class="col-lg-12">
-                    <h1 class="page-header">控制面板</h1>
+                    <h1 class="page-header">Dashboard2</h1>
                 </div>
                 <!-- /.col-lg-12 -->
             </div>
