@@ -5,7 +5,7 @@ var dialog = {
 		layer.open({
 			content:message,
 			icon:2,
-			titile: '错误提示',
+			title: '错误提示',
 
 		});
 	},

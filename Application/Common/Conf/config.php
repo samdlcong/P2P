@@ -4,5 +4,6 @@ return array(
 	'URL_MODEL'=>1,
 	'URL_HTML_SUFFIX'=>'html',
 	'URL_CASE_INSENSITIVE'=>true,
-	'LOAD_EXT_CONFIG'=>db,
+	'LOAD_EXT_CONFIG'=>'db',
+	'MD5_PR'=>'xnzb',
 );
